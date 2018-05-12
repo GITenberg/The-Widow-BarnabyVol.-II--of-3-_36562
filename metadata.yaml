@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3479
     wikipedia: http://en.wikipedia.org/wiki/Frances_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36562#The-Widow-BarnabyVol.-II--of-3-
 gutenberg_issued: '2011-06-30'
 gutenberg_type: Text
 identifiers:
